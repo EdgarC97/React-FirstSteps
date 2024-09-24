@@ -1,6 +1,5 @@
 import './App.css'
 import {TwitterFollowCard}  from './TwitterFollowCard.jsx'
-import Login from './assets/views/Login';
 
 export default function App() {
     return(
@@ -11,7 +10,6 @@ export default function App() {
             <TwitterFollowCard isFollowing={false} userName="Juan9Ca8">
                 Juan Camilo Rojas 
             </TwitterFollowCard>
-            <Login/>
         </section>
     );
 }
