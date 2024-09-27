@@ -7,8 +7,8 @@ export default function App() {
             <TwitterFollowCard isFollowing userName="EdgarC97">
                 Edgar Cardona 
             </TwitterFollowCard>
-            <TwitterFollowCard isFollowing={false} userName="Juan9Ca8">
-                Juan Camilo Rojas 
+            <TwitterFollowCard isFollowing={false} userName="BrayanLanda">
+                Brayan Acosta 
             </TwitterFollowCard>
         </section>
     );
